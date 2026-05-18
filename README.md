@@ -1,0 +1,1 @@
+# 24g_simgizi_dapur
