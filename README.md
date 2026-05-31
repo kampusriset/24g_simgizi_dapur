@@ -45,24 +45,6 @@ simGizi_Dapur_4Thinkz_team/
 └── README.md
 ```
 
-simGizi_Dapur_4Thinkz team/
-├── backend/
-│ ├── koneksi.php # Konfigurasi koneksi database
-│ ├── helpers.php # Helper response JSON dan validasi input
-│ ├── login.php # Endpoint login
-│ ├── dashboard.php # Endpoint data dashboard
-│ ├── dapur.php # Endpoint CRUD data dapur
-│ └── mitra.php # Endpoint CRUD data mitra
-├── database.sql # Struktur dan data awal database
-├── index.html # Redirect ke halaman login
-├── login.html # Halaman login
-├── dashboard.html # Halaman dashboard
-├── dapur.html # Halaman manajemen dapur
-├── mitra.html # Halaman manajemen mitra
-├── frontend.js # Logic frontend dan integrasi API
-├── style.css # Styling utama aplikasi
-└── README.md
-
 ## Persyaratan
 
 Pastikan sudah tersedia:
